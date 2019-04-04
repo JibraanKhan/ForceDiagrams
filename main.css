@@ -1,0 +1,44 @@
+body{
+}
+
+div{
+  width: 40%;
+  height: 8%;
+  padding: 10px;
+  margin: 20px;
+  border-style: groove;
+  border-radius: 20px;
+  padding:30px;
+}
+
+div:hover{
+  background-color:pink;
+  width:45%;
+  transition: 100ms linear;
+}
+
+.d1{
+  float:left;
+}
+
+.d2{
+  float:right;
+}
+
+.d3{
+  float:left;
+  margin-left:40%;
+}
+
+p{
+  text-indent: 20px;
+  font-size:24px;
+}
+
+h1{
+  font-size:48px;
+}
+
+h2{
+  font-size:32px;
+}
